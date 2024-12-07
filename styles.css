@@ -1,0 +1,8 @@
+#sendcan{
+    display: flex;
+    justify-content:flex-end;
+}
+.missing {
+background-color: rgb(243, 110, 110);
+text-decoration-color: rgb(119, 0, 0);
+}
